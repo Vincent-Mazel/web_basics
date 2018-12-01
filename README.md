@@ -1,2 +1,2 @@
 # web_basics
-Start a web project with packages.
+Start a web project with some great stuff.
